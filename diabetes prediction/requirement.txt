@@ -1,0 +1,7 @@
+# Project requirements
+numpy==1.26.3
+pandas==2.2.0
+scikit-learn==1.4.0
+matplotlib==3.4.3
+seaborn==0.11.2
+streamlit==1.30.0
